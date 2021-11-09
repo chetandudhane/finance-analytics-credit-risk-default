@@ -10,9 +10,6 @@ We use Logistic Regression on multiple models treated differently.
 
 The final model chosen has the Accuracy = 96% and Recall = 95%. 
 
-![Alt text](https://ibb.co/hWbWfVd)
+### Skills and Tools
 
-
-
-
-
+Logistic Regression, Exploratory Data Analysis, Machine Learning, Classification
